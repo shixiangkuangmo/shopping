@@ -669,4 +669,4 @@ function Env(_0x4e7acc, _0x4ece95) {
       (this.isSurge() || this.isQuanX() || this.isLoon()) && $done(_0x3942bc);
     }
   }(_0x4e7acc, _0x4ece95);
-} const $ = new Env('饿了么乐园币');
+} const $ = new Env('饿了么欢乐倒水');
