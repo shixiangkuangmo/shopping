@@ -372,7 +372,7 @@ async function start () {
                     continue;
                 }
 
-                console['log']("号账么了饿【始开******".split("").reverse().join(""), _0x18c297 + 1, "】", '十七不努力', "*********".split("").reverse().join(""));
+                console['log']("号账么了饿【始开******".split("").reverse().join(""), _0x18c297 + 1, "】", '['getUserInfo']', "*********".split("").reverse().join(""));
                 await lyb_sign(_0xaeedd3);
                 await lottery(_0xaeedd3);
 
